@@ -78,12 +78,6 @@ We build an ensemble model that fuses predictions from three deep learning archi
 - NumPy, pandas
 - Matplotlib (visualizations)
 
-## 👨‍💻 Team Contributions
-
-- **Vikyath Naradasi** – Data pipeline, Bi-GRU model, final integration
-- **Abhinav Vadhera** – Transformer model, experiment logging, attention visualizations
-- **Rodrigo Lopez** – TCN model, ensemble strategy, final performance analysis
-
 ## 📚 References
 
 - [Cho et al., 2014 - GRU](https://arxiv.org/abs/1406.1078)
